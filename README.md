@@ -1,5 +1,5 @@
 # SII
-Recrutation task 12/06/2020
+Recrutation task 15/06/2020
 
 All methods are stored in main class to speedup code review.I have prepared two solutions as you can see below
 
